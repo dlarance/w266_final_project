@@ -29,10 +29,6 @@ Exploratory data analysis for the Amazon reviews data set:
 
 + EDA_AmazonReviews.ipynb
 
-### Baseline Model
-
-+ NaiveBayes_Binary_AmazonReviews.ipynb
-
 ### Error Analysis
 
 These .csv files contain a list of mispredicted reviews:
@@ -55,6 +51,10 @@ Contains the following:
 + EDA notebook for RateBeer
 + Naive Bayes notebook to generate a baseline for the different review data sets
 + csv files for the different data sets
+
+### NaiveBayes
+
+Naive Bayes baseline model
 
 ### NBOW
 
